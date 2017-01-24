@@ -3,7 +3,7 @@ body{
 	font-family: 'Ubuntu', sans-serif;
 }
 .background{
-	background-image: url("../imagenes/background.png");
+	background-image: url("../imagenes/background.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
